@@ -25,7 +25,7 @@ Furia Chatbot/
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/furia-chatbot.git
+git clone https://github.com/joaovitorlouzada/furia-chatbot.git
 cd furia-chatbot/backend
 ```
 
