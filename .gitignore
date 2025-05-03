@@ -1,12 +1,6 @@
-# Ignora ambientes virtuais
+
+# Ignorar ambiente virtual e variáveis de ambiente
 venv/
 .env
 __pycache__/
 *.pyc
-
-# Ignora arquivos do VSCode
-.vscode/
-
-# Ignora arquivos do sistema
-.DS_Store
-Thumbs.db
