@@ -1,7 +1,7 @@
 
 # FURIA Chatbot com IA
 
-Este projeto é um chatbot que usa IA para responder perguntas e interações, com uma interface web simples.
+Este projeto é um chatbot interativo que utiliza a API do Gemini AI para responder perguntas sobre a equipe de eSports FURIA. Ele combina um front-end simples em HTML/CSS/JS com um back-end em Python, proporcionando uma experiência de usuário fluida e informativa.
 
 ## Estrutura do Projeto
 
@@ -21,7 +21,28 @@ Furia Chatbot/
 └── run.sh
 ```
 
-## Como rodar o projeto
+## 🛠️ Tecnologias Utilizadas
+
+### Front-end
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+### Back-end
+- Python 3.x
+- Flask (ou outra biblioteca utilizada)
+- API do Gemini AI
+
+### Outras Ferramentas
+- Ambiente virtual (`venv`)
+- Variáveis de ambiente (`.env`)
+- `http.server` (servidor local para frontend)
+
+## 🚀 Acesse o Chatbot Online
+
+Você pode testar a versão do chatbot online através do seguinte link: [FURIA Chatbot](https://furia-chatbot-ruby.vercel.app/).
+
+## Como rodar o projeto localmente 
 
 ### 1. Clone o repositório
 ```bash
@@ -57,3 +78,7 @@ python app.py
 ```
 
 Depois, abra o `index.html` no navegador para acessar a interface do chatbot.
+
+
+
+
