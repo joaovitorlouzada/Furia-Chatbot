@@ -42,6 +42,13 @@ Furia Chatbot/
 
 Você pode testar a versão do chatbot online através do seguinte link: [FURIA Chatbot](https://furia-chatbot-ruby.vercel.app/).
 
+## 🌐 Hospedagem
+
+O projeto está dividido em duas partes, cada uma hospedada em uma plataforma diferente:
+
+- **Front-end**: hospedado na [Vercel](https://vercel.com), acessível em: [https://furia-chatbot-ruby.vercel.app/](https://furia-chatbot-ruby.vercel.app/)
+- **Back-end**: hospedado na [Render](https://render.com), responsável por intermediar as requisições à API do Gemini AI (sem interface pública direta)
+
 ## Como rodar o projeto localmente 
 
 ### 1. Clone o repositório
