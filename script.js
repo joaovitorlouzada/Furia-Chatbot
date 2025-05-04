@@ -12,7 +12,7 @@ form.addEventListener("submit", async (e) => {
   addMessage("Pensando...", "bot");
 
   // Aqui você trocaria pela chamada real de API
-  const response = await fetch("http://localhost:5000/chat", {
+  const response = await fetch("https://furia-chatbot-307i.onrender.com", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ message: userText })
